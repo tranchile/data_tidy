@@ -1,0 +1,11 @@
+"GEOID","NAME","variable","estimate","moe"
+"15001","Hawaii County, Hawaii","B01003_001",191482,NA
+"15001","Hawaii County, Hawaii","B19013_001",52108,1215
+"15003","Honolulu County, Hawaii","B01003_001",984178,NA
+"15003","Honolulu County, Hawaii","B19013_001",74460,773
+"15005","Kalawao County, Hawaii","B01003_001",85,21
+"15005","Kalawao County, Hawaii","B19013_001",66250,9909
+"15007","Kauai County, Hawaii","B01003_001",69691,NA
+"15007","Kauai County, Hawaii","B19013_001",65101,2955
+"15009","Maui County, Hawaii","B01003_001",160863,21
+"15009","Maui County, Hawaii","B19013_001",66476,2202
